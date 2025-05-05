@@ -1,0 +1,26 @@
+/* Optional Custom Styles */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 1rem;
+}
+
+button {
+  background-color: #f472b6;
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #db2777;
+}
+
+section {
+  margin-top: 20px;
+}
